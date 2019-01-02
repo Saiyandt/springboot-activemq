@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/authservice/authservice.iml" filepath="$PROJECT_DIR$/authservice/authservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rsservice/rsservice.iml" filepath="$PROJECT_DIR$/rsservice/rsservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stmservice/stmservice.iml" filepath="$PROJECT_DIR$/stmservice/stmservice.iml" />
+    </modules>
+  </component>
+</project>
